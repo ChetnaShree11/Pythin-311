@@ -1,0 +1,13 @@
+Unit 1: Introduction to Programming: Evolution of programming languages, Structured Programming, Compilation
+process, object code, source code, executable code, Operating systems, Fundamentals of algorithms, flow charts and
+pseudocodes.
+
+(6 Hrs)
+Unit 2: Introduction to C: Introduction, Importance of C, Sample C programs, Basic structure of C programs, Executing
+a C program, Character set, Keywords, Identifiers, Constant and Variables, Data types, Operators, Precedence of
+operators, Statements, Expressions, Input-output functions.
+
+(8 Hrs)
+Unit 3: Control Statements, Storage Classes, Library Functions: Control Structures: Decision making and Branching,
+Control Structures: Decision making and looping, Storage Classes: Types of storage class, Scoping rules, Standard
+Library Functions, advantages and their use (I/O functions, String, Character, Mathematics, Time and Date functions).

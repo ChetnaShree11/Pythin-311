@@ -1,0 +1,10 @@
+#Write a program to create one string tuple and one numeric tuple. Print max and min value from both.Slice the string tuple from index 2 to 4
+a=('Chetna','Prerna','Suhasani','Mam','Arradhya','Rekha')
+b=(1,2,3,4,5)
+print(a)
+print(b)
+print("Maximum value in a=",max(a))
+print("Minimum value in a=",min(a))
+print("Maximum value in b=",max(b))
+print("Minimum value in a=",min(b))
+print('Slice of a=',a[2:5])
